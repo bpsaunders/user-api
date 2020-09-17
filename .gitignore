@@ -1,0 +1,11 @@
+# IDE files
+.idea/
+
+# Compiled binary
+main
+
+# Linter files
+lint.txt
+
+# Test coverage file
+coverage.out
